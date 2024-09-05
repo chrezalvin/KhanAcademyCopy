@@ -1,20 +1,32 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { NavigationContainer } from "@react-navigation/native";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { FontAwesome } from "@expo/vector-icons";
+
+import navs from "./navs";
 
 export default function App() {
+  const Tab = createBottomTabNavigator();
+
+  const navScreens = navs.map((nav) => (
+      <Tab.Screen 
+        name={nav.name} 
+        component={nav.component} 
+        options={{
+          tabBarIcon: (props) => <FontAwesome 
+            name={nav.iconName} 
+            size={24}
+            color={props.color}
+          />,
+          headerTitleAlign: "center",
+        }}
+      />
+  ))
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <NavigationContainer>
+      <Tab.Navigator>
+        {navScreens}
+      </Tab.Navigator>
+    </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
