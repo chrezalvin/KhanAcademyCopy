@@ -1,17 +1,41 @@
-import Home, {Header} from "./home";
-import Settings from "./settings";
+import Home, {HomeHeader} from "./home";
+import Bookmarks, {BookmarksHeader} from "./bookmarks";
+import Explore, {ExploreHeader} from "./explore";
 
-export const navs = [
+import { BottomTabNavigationOptions, BottomTabHeaderProps } from "@react-navigation/bottom-tabs";
+import { FontAwesome } from "@expo/vector-icons";
+
+interface TabBarProps {
+    focused: boolean;
+    color: string;
+    size: number;
+}
+
+interface NavProps {
+    name: string,
+    component: React.FC,
+    header: React.FC<BottomTabHeaderProps>,
+    icon: (props: TabBarProps) => JSX.Element,
+}
+
+export const navs: NavProps[] = [
     {
-        name: "Home", 
+        name: "Home",
         component: Home,
-        iconName: "home" as const,
-        header: Header
+        header: HomeHeader,
+        icon: (props) => <FontAwesome name="home" size={24} color={props.color} />,
     },
     {
-        name: "Settings", 
-        component: Settings,
-        iconName: "gear" as const
+        name: "Explore",
+        component: Explore,
+        header: ExploreHeader,
+        icon: (props) => <FontAwesome name="search" size={24} color={props.color} />,
+    },
+    {
+        name: "Bookmarks", 
+        component: Bookmarks,
+        header: BookmarksHeader,
+        icon: (props) => <FontAwesome name="bookmark-o" size={24} color={props.color} />,
     },
 ];
 

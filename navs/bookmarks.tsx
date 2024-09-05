@@ -1,20 +1,20 @@
 import { Text, View } from "react-native";
 import styles from "../styles";
 
-export function Home(){
+export function Bookmarks(){
     return (
         <View style={styles.container}>
-            <Text>Home</Text>
+            <Text>Bookmarks</Text>
         </View>
     );
 }
 
-export function HomeHeader(){
+export function BookmarksHeader(){
     return (
         <View style={styles.container}>
-            <Text>Khan Academy (copy)</Text>
+            <Text>Bookmarks</Text>
         </View>
     );
 }
 
-export default Home;
+export default Bookmarks;
