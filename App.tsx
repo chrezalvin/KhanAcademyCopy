@@ -1,9 +1,9 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
-import { Appearance, View } from "react-native";
+import { Appearance } from "react-native";
 import { darkTheme, lightTheme } from "./styles";
-import navs from "./navs";
+import navs from "./pages/navs";
 
 export default function App() {
   const Tab = createBottomTabNavigator();
@@ -15,10 +15,10 @@ export default function App() {
         component={nav.component}
         options={{
           header: nav.header,
-          tabBarIcon: nav.icon
+          tabBarIcon: nav.icon,
         }}
       />
-  ))
+  ));
 
   return (
     <NavigationContainer theme={!isDarkMode ? darkTheme : lightTheme}>
