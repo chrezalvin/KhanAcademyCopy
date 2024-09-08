@@ -1,5 +1,6 @@
 import { Text, View } from "react-native";
 import styles from "../../styles";
+import Header from "../../components/header";
 
 export function Bookmarks(){
     return (
@@ -11,9 +12,9 @@ export function Bookmarks(){
 
 export function BookmarksHeader(){
     return (
-        <View style={styles.container}>
-            <Text>Bookmarks</Text>
-        </View>
+        <Header 
+            title="Bookmarks"
+        />
     );
 }
 

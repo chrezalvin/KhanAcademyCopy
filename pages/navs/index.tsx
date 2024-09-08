@@ -1,9 +1,9 @@
-import Home, {HomeHeader} from "./home";
-import Bookmarks, {BookmarksHeader} from "./bookmarks";
-import Explore, {ExploreHeader} from "./explore";
+import { Home, HomeHeader } from "./home";
+import { Bookmarks, BookmarksHeader } from "./bookmarks";
+import { Explore, ExploreHeader } from "./explore";
 
 import { BottomTabHeaderProps } from "@react-navigation/bottom-tabs";
-import { FontAwesome } from "@expo/vector-icons";
+import Icon from "../../components/icon";
 
 interface TabBarProps {
     focused: boolean;
@@ -23,19 +23,19 @@ export const navs: NavProps[] = [
         name: "Home",
         component: Home,
         header: HomeHeader,
-        icon: (props) => <FontAwesome name="home" size={props.size} color={props.color} />,
+        icon: (props) => Icon({...props, name: "home"}),
     },
     {
         name: "Explore",
         component: Explore,
         header: ExploreHeader,
-        icon: (props) => <FontAwesome name="search" size={props.size} color={props.color} />,
+        icon: (props) => Icon({...props, name: "search"}),
     },
     {
         name: "Bookmarks", 
         component: Bookmarks,
         header: BookmarksHeader,
-        icon: (props) => <FontAwesome name="bookmark-o" size={props.size} color={props.color} />,
+        icon: (props) => Icon({...props, name: "bookmark"}),
     },
 ];
 

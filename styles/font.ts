@@ -1,6 +1,24 @@
 import { StyleSheet } from 'react-native';
 
 export const fontStyle = StyleSheet.create({
+    fwNormal:{
+      fontWeight: 'normal',
+    },
+    fwBold:{
+      fontWeight: 'bold',
+    },
+    fwBolder: {
+      fontWeight: "600"
+    },
+    italic:{
+      fontStyle: 'italic',
+    },
+    underline:{
+      textDecorationLine: 'underline',
+    },
+    strikethrough:{
+      textDecorationLine: 'line-through',
+    },
     h1: {
       fontSize: 32,
       fontWeight: 'bold',

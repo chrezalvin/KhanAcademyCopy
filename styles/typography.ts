@@ -40,6 +40,36 @@ export const typography = StyleSheet.create({
     alignItemsBaseline: {
         alignItems: 'baseline',
     },
+    w100: {
+        width: '100%',
+    },
+    h100: {
+        height: '100%',
+    },
+    rounded1: {
+        borderRadius: 2,
+    },
+    rounded2: {
+        borderRadius: 4,
+    },
+    rounded3: {
+        borderRadius: 8,
+    },
+    rounded4: {
+        borderRadius: 16,
+    },
+    gap1: {
+        gap: 4,
+    },
+    gap2: {
+        gap: 8,
+    },
+    gap3: {
+        gap: 16,
+    },
+    gap4: {
+        gap: 32,
+    },
   });
 
 export default typography;

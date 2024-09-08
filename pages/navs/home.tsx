@@ -1,6 +1,7 @@
 import { Text, View } from "react-native";
 import styles from "../../styles";
 import { FontAwesome } from "@expo/vector-icons";
+import Header from "../../components/header";
 
 export function Home(){
     return (
@@ -12,10 +13,11 @@ export function Home(){
 
 export function HomeHeader(){
     return (
-        <View style={[styles.container, styles.flexHorizontal, styles.padding, styles.shadow]}>
-            <Text style={[styles.h3]}>Khan Academy (copy)</Text>
-            <FontAwesome name="gear" style={styles.textPrimary} size={24}/>
-        </View>
+        <Header
+            title="Khan Academy (copy)"
+            right={<FontAwesome name="gear" style={styles.textPrimary} size={24}/>}
+            left={<View />}
+        />
     );
 }
 
