@@ -2,16 +2,16 @@ import { StyleSheet } from 'react-native';
 
 export const typography = StyleSheet.create({
     container: {
-      flex: 1,
-      backgroundColor: '#fff',
-      alignItems: 'center',
-      justifyContent: 'center',
+        flex: 1,
+        backgroundColor: '#fff',
+        alignItems: 'center',
+        justifyContent: 'center',
     },
     flexHorizontal: {
-      flexDirection: 'row',
+        flexDirection: 'row',
     },
     flexVertical: {
-      flexDirection: 'column',
+        flexDirection: 'column',
     },
     justifyCenter: {
         justifyContent: 'center',
@@ -58,18 +58,9 @@ export const typography = StyleSheet.create({
     rounded4: {
         borderRadius: 16,
     },
-    gap1: {
-        gap: 4,
-    },
-    gap2: {
-        gap: 8,
-    },
-    gap3: {
-        gap: 16,
-    },
-    gap4: {
-        gap: 32,
-    },
-  });
+    roundedCircle: {
+        borderRadius: 9999,
+    }
+});
 
 export default typography;

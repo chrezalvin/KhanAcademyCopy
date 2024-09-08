@@ -22,7 +22,7 @@ export function ExploreHeader(){
                     styles.w100, 
                     styles.h100, 
                     styles.rounded2,
-                    styles.padding,
+                    styles.p2,
                   ]}
                 />
             )}
