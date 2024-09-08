@@ -11,11 +11,21 @@ export function Home(){
     );
 }
 
-export function HomeHeader(){
+interface HomeHeaderProps {
+    onGearPress: () => void;
+}
+
+export function HomeHeader(props: HomeHeaderProps){
     return (
         <Header
             title="Khan Academy (copy)"
-            right={<FontAwesome name="gear" style={styles.textPrimary} size={24}/>}
+            right={<FontAwesome 
+                    name="gear" 
+                    style={styles.textPrimary} 
+                    size={24}
+                    onPress={props.onGearPress}
+                    />
+                }
             left={<View />}
         />
     );

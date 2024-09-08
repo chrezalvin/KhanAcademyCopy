@@ -26,7 +26,7 @@ export function ExploreHeader(){
                   ]}
                 />
             )}
-            right={<Text style={[styles.textPrimary, styles.fwBold]}>Filter</Text>}
+            right={<Text onPress={() => alert("Press")} style={[styles.textPrimary, styles.fwBold]}>Filter</Text>}
         />
     );
 

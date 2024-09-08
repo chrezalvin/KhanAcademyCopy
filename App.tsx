@@ -1,30 +1,23 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 import { Appearance } from "react-native";
 import { darkTheme, lightTheme } from "./styles";
-import navs from "./pages/navs";
+import Navs from "./pages/navs";
+import Settings from "./pages/settings";
+
+const Stack = createNativeStackNavigator();
 
 export default function App() {
-  const Tab = createBottomTabNavigator();
   const isDarkMode = Appearance.getColorScheme() == "dark";
-
-  const navScreens = navs.map((nav) => (
-      <Tab.Screen 
-        name={nav.name} 
-        component={nav.component}
-        options={{
-          header: nav.header,
-          tabBarIcon: nav.icon,
-        }}
-      />
-  ));
 
   return (
     <NavigationContainer theme={!isDarkMode ? darkTheme : lightTheme}>
-      <Tab.Navigator>
-        {navScreens}
-      </Tab.Navigator>
+      <Stack.Navigator initialRouteName="home" screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="home" component={Navs} />
+        <Stack.Screen name="settings" component={Settings} />
+      </Stack.Navigator>
     </NavigationContainer>
   );
 }

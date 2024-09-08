@@ -17,7 +17,8 @@ export function Header(props: HeaderProps){
                 },
                 styles.container, 
                 styles.flexHorizontal, 
-                styles.p2, 
+                styles.px3,
+                styles.py2,
                 styles.shadow, 
                 styles.justifyBetween,
                 props.style
