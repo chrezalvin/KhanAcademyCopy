@@ -16,11 +16,11 @@ export function Header(props: HeaderProps){
                     minHeight: 50,
                 },
                 styles.container, 
+                styles.justifyBetween,
                 styles.flexHorizontal, 
                 styles.px3,
                 styles.py2,
                 styles.shadow, 
-                styles.justifyBetween,
                 props.style
             ]}
         >

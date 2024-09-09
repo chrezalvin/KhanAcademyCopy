@@ -1,11 +1,20 @@
 import { View, Text, TextInput } from "react-native";
 import styles from "../../styles";
 import Header from "../../components/header";
+import SearchInput from "../../components/searchInput";
 
 export function Explore(){
     return (
-        <View style={styles.container}>
+        <View style={[
+            {
+                flex: 1
+            },
+            styles.flexVertical
+        ]}>
             <Text>Explore</Text>
+            <View>
+                
+            </View>
         </View>
     );
 }
@@ -14,26 +23,9 @@ export function ExploreHeader(){
     return (
         <Header 
             style={[styles.gap4]}
-            left={(
-                <TextInput 
-                  placeholder="Search"  
-                  style={[
-                    styles.bgMuted, 
-                    styles.w100, 
-                    styles.h100, 
-                    styles.rounded2,
-                    styles.p2,
-                  ]}
-                />
-            )}
+            left={<SearchInput />}
             right={<Text onPress={() => alert("Press")} style={[styles.textPrimary, styles.fwBold]}>Filter</Text>}
         />
-    );
-
-    return (
-        <View style={styles.container}>
-            <Text>Explore</Text>
-        </View>
     );
 }
 
