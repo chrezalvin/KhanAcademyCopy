@@ -39,6 +39,18 @@ export const fontStyle = StyleSheet.create({
       fontSize: 14,
       fontWeight: 'normal',
     },
+    textLeft: {
+      textAlign: 'left',
+    },
+    textCenter: {
+      textAlign: 'center',
+    },
+    textRight: {
+      textAlign: 'right',
+    },
+    textJustify: {
+      textAlign: 'justify',
+    },
   });
 
 export default fontStyle;

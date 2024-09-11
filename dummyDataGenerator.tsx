@@ -1,49 +1,47 @@
-import { SvgUri } from "react-native-svg";
-
-const calculator = require("./assets/icons/calculator.svg");
-const art = require("./assets/icons/art.svg");
-const atom = require("./assets/icons/atom.svg");
-const briefcase = require("./assets/icons/briefcase.svg");
-const coin = require("./assets/icons/coin.svg");
-const handshake = require("./assets/icons/handshake.svg");
-const testExam = require("./assets/icons/testExam.svg");
+import Calculator from "./assets/icons/calculator.svg";
+import Art from "./assets/icons/art.svg";
+import Atom from "./assets/icons/atom.svg";
+import Briefcase from "./assets/icons/briefcase.svg";
+import Coin from "./assets/icons/coin.svg";
+import Handshake from "./assets/icons/handshake.svg";
+import TestExam from "./assets/icons/testExam.svg";
 
 export const data = [
     {
         id: 1,
         topic: "Math",
-        icon: <SvgUri uri={calculator} />,
+        icon: <Calculator height={50} width={50} />,
     },
     {
         id: 2,
         topic: "Arts and Humanities",
-        icon: <SvgUri uri={art} />,
+        icon: <Art height={50} width={50} />,
     },
     {
         id: 3,
         topic: "Science",
-        icon: <SvgUri uri={atom} />,
+        icon: <Atom height={50} width={50} />,
     },
     {
         id: 4,
         topic: "Life Skills",
-        icon: <SvgUri uri={briefcase} />,
+        icon: <Briefcase height={50} width={50} />,
     },
     {
         id: 5,
         topic: "Economics",
-        icon: <SvgUri uri={coin} />,
+        icon: <Coin height={50} width={50} />,
     },
     {
         id: 6,
         topic: "Partner Content",
-        icon: <SvgUri uri={handshake} />,
+        icon: <Handshake height={50} width={50} />,
     },
     {
         id: 7,
         topic: "Test Prep",
-        icon: <SvgUri uri={testExam} />,
-    }
+        icon: <TestExam height={50} width={50} />,
+    },
 ]
 
 export default data;

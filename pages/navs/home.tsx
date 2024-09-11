@@ -1,4 +1,5 @@
-import { Text, View } from "react-native";
+import { View } from "react-native";
+import {Text} from "../../components/replacement/Text";
 import styles from "../../styles";
 import { FontAwesome } from "@expo/vector-icons";
 import Header from "../../components/header";

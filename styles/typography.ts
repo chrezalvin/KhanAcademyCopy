@@ -1,9 +1,10 @@
 import { StyleSheet } from 'react-native';
+import colorChoice from '../colors';
 
 export const typography = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#fff',
+        backgroundColor: colorChoice.light,
         alignItems: 'center',
         justifyContent: 'center',
     },
