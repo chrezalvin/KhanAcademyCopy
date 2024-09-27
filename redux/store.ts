@@ -1,18 +1,7 @@
 import { configureStore } from "@reduxjs/toolkit";
+import reducer from "./states";
 
-import isDarkConnector from "./states/isDark";
-import counterConnector from "./states/counter";
-import regionConnector from "./states/region";
-import languageConnector from "./states/language";
-
-export const store = configureStore({
-    reducer: {
-        isDark: isDarkConnector,
-        counter: counterConnector,
-        region: regionConnector,
-        language: languageConnector,
-    }
-});
+export const store = configureStore({ reducer });
 
 // Infer the `RootState` and `AppDispatch` types from the store itself
 export type RootState = ReturnType<typeof store.getState>
