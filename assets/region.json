@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Canada",
+        "region": "Canada",
+        "code": "CA"
+    },
+    {
+        "id": 2,
+        "name": "Canada (Alberta)",
+        "region": "Canada",
+        "code": "CA-AB"
+    },
+    {
+        "id": 3,
+        "name": "Canada (Ontario)",
+        "region": "Canada",
+        "code": "CA-ON"
+    },
+    {
+        "id": 4,
+        "name": "English (Default)",
+        "region": "Universal",
+        "code": "default"
+    },
+    {
+        "id": 5,
+        "name": "India",
+        "region": "India",
+        "code": "IN"
+    },
+    {
+        "id": 6,
+        "name": "Philippines",
+        "region": "Philippines",
+        "code": "PH"
+    },
+    {
+        "id": 7,
+        "name": "Sierra Leone",
+        "region": "Sierra Leone",
+        "code": "SL"
+    },
+    {
+        "id": 8,
+        "name": "United States (U.S.)",
+        "region": "United States",
+        "code": "US"
+    }
+]

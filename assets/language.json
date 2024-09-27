@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Device Language",
+        "code": "default"
+    },
+    {
+        "id": 1,
+        "name": "English",
+        "code": "en"
+    },
+    {
+        "id": 2,
+        "name": "Français",
+        "code": "fr"
+    },
+    {
+        "id": 3,
+        "name": "Español",
+        "code": "es"
+    },
+    {
+        "id": 4,
+        "name": "Deutsch",
+        "code": "de"
+    },
+    {
+        "id": 5,
+        "name": "Italiano",
+        "code": "it"
+    },
+    {
+        "id": 6,
+        "name": "Português",
+        "code": "pt"
+    },
+    {
+        "id": 7,
+        "name": "Русский",
+        "code": "ru"
+    },
+    {
+        "id": 8,
+        "name": "日本語",
+        "code": "ja"
+    },
+    {
+        "id": 9,
+        "name": "한국어",
+        "code": "ko"
+    },
+    {
+        "id": 10,
+        "name": "中文",
+        "code": "zh"
+    },
+    {
+        "id": 11,
+        "name": "العربية",
+        "code": "ar"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Help & feedback",
+        "link": "https://support.khanacademy.org/hc/en-us"
+    },
+    {
+        "name": "Rate the app",
+        "link": "https://play.google.com/store/apps/details?id=org.khanacademy.android&referrer=utm_source%3Dwebsite%2520footer%26utm_medium%3Dwebsite%2520footer%26utm_campaign%3Dwebsite%2520footer"
+    },
+    {
+        "name": "About the team",
+        "link": "https://www.khanacademy.org/about/the-team"
+    },
+    {
+        "name": "Terms of service",
+        "link": "https://www.khanacademy.org/about/tos?redirected-from-mobile-app=1"
+    },
+    {
+        "name": "Privacy policy",
+        "link": "https://www.khanacademy.org/about/privacy-policy?redirected-from-mobile-app=1"
+    },
+    {
+        "name": "Licenses",
+        "link": ""
+    }
+]

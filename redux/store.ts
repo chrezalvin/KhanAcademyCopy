@@ -1,10 +1,16 @@
 import { configureStore } from "@reduxjs/toolkit";
 
 import isDarkConnector from "./states/isDark";
+import counterConnector from "./states/counter";
+import regionConnector from "./states/region";
+import languageConnector from "./states/language";
 
 export const store = configureStore({
     reducer: {
-        isDark: isDarkConnector
+        isDark: isDarkConnector,
+        counter: counterConnector,
+        region: regionConnector,
+        language: languageConnector,
     }
 });
 
