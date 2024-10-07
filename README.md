@@ -6,7 +6,10 @@ this is a project for mid semester of Cross-Platform Programming class in Multim
 
 this project is made using **react-native typescript**
 
+### References
+
 ### The Project Directories
+
 - `components`: all the reusable components
 - `pages`: list of pages, nav is considered as one page
 - `styles`: the stylesheet used in the project
@@ -15,6 +18,10 @@ this project is made using **react-native typescript**
 
 - `@expo/vector-icons`: for material icons
 - `@react-navigation` : for bottom bar navigation
+- `react-redux`       : state management
+- `react-native-paper`: styling and dark mode
+- `react-native-safe-area-context`: for safe area padding
+- `@react-native-async-storage/async-storage`: for dark mode preference
 
 ### My Profile
 

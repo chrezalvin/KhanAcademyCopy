@@ -4,34 +4,21 @@ import { useEffect } from "react";
 import styles from "../styles";
 
 import AppLogo from "../assets/icons/art copy.svg";
-import Animated, { SharedTransition, withSpring } from "react-native-reanimated";
-
-interface SplashProps{
-    // none
-}
+import { View } from "react-native";
 
 type SplashNavProps = NativeStackScreenProps<RouteStackParamList, "splash">;
 
-const customTransition = SharedTransition.custom((values) => {
-    return {
-        height: withSpring(values.targetHeight),
-        width: withSpring(values.targetWidth),
-        originX: withSpring(values.targetOriginX),
-        originY: withSpring(values.targetOriginY),
-    };
-});
-
 export function Splash(props: SplashNavProps){
     useEffect(() => {
+
+        // go to home after 2 seconds
         setTimeout(() => {
-            props.navigation.navigate("home");
+            props.navigation.replace("home");
         }, 2000);
     });
 
     return (
-        <Animated.View 
-            sharedTransitionTag="tag"
-            sharedTransitionStyle={customTransition}
+        <View 
             style={[
                 {
                     flex: 1,
@@ -40,7 +27,7 @@ export function Splash(props: SplashNavProps){
                 styles.alignItemsCenter,
             ]}
         >
-            <Animated.View style={[
+            <View style={[
                 styles.p5,
                 styles.roundedCircle,
                 {
@@ -48,8 +35,8 @@ export function Splash(props: SplashNavProps){
                 }
             ]}>
                 <AppLogo width={100} height={100} />
-            </Animated.View>
-        </Animated.View>
+            </View>
+        </View>
     );
 }
 

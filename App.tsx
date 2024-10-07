@@ -26,6 +26,7 @@ import { Provider } from "react-redux";
 import { useMemo } from "react";
 import { getItem } from "./libs/AsyncStorage";
 import AppProvider from "./AppProvider";
+import { SafeAreaView } from "react-native";
 
 const {LightTheme, DarkTheme} = adaptNavigationTheme({
   reactNavigationLight: NavigationDefaultTheme,
@@ -93,6 +94,7 @@ function App(){
     </SafeAreaProvider>
   );
 }
+
 
 export default function ReduxWrapper(){
   return(
