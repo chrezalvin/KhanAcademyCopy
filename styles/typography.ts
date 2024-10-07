@@ -4,7 +4,7 @@ import colorChoice from '../colors';
 export const typography = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: colorChoice.light,
+        // backgroundColor: colorChoice.light,
         alignItems: 'center',
         justifyContent: 'center',
     },
@@ -46,6 +46,9 @@ export const typography = StyleSheet.create({
     },
     h100: {
         height: '100%',
+    },
+    rounded0: {
+        borderRadius: 0,
     },
     rounded1: {
         borderRadius: 2,

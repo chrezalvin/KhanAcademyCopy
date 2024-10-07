@@ -1,0 +1,2323 @@
+[
+    {
+        "id": "x130658ce70790c3e",
+        "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/congruence.png-79676b-128c.png",
+        "translatedDescription": "In this unit, we'll focus on understanding congruence and similarity, and how these concepts can be used to compare shapes. We'll also tackle the Pythagorean theorem and triangle trigonometry, so get ready to sharpen those pencils! ",
+        "allOrderedChildren": [
+            {
+                "id": "xf8a2759c1f0b4f32",
+                "translatedTitle": "Solving proportions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x28c3c1ded1bc7e31",
+                "translatedTitle": "Scale copies",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3d38783c65724739",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xbbdd9a3514297780",
+                "translatedTitle": "Scale drawings",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xd2eae2d46ccbc145",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x7cde78efd12a7b45",
+                "translatedTitle": "Vertical, complementary, and supplementary angles",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x7cf023a4d7192c52",
+                "translatedTitle": "Angles between intersecting lines",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xd7d152938ad45a11",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x9b92cc5dadee6772",
+                "translatedTitle": "Triangle angles",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x324343186b6cf7eb",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Quiz 4",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x490fbe3d1ff7a348",
+                "translatedTitle": "Approximating irrational numbers",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x6a507b5d82b059f0",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Quiz 5",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x026c91bbb00ca99c",
+                "translatedTitle": "Pythagorean theorem",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x226c74bb78dfe53a",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Quiz 6",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb4cfe2c88456d423",
+                "translatedTitle": "Get ready for congruence, similarity, and triangle trigonometry: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x4ac63166abd2d07a",
+        "translatedTitle": "Get ready for analytic geometry",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/analytic_geometry.png-a611a1-128c.png",
+        "translatedDescription": "What do architects, graphic designers, and engineers all have in common? They use analytic geometry! In this unit of study, you'll learn the basics of using math to create precise drawings and models.",
+        "allOrderedChildren": [
+            {
+                "id": "x023256370a5a08fb",
+                "translatedTitle": "Polygons on the coordinate plane",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x43b892c656e7649e",
+                "translatedTitle": "Get ready for analytic geometry: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xa3c16f9886a36aa4",
+                "translatedTitle": "Two-variable linear equations intro",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x22fc29cbc5c6b75e",
+                "translatedTitle": "Get ready for analytic geometry: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xdfa0f3f06e7004b4",
+                "translatedTitle": "Slope",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xb2fa09f45c0e1a8d",
+                "translatedTitle": "Get ready for analytic geometry: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x3ade76727417e30d",
+                "translatedTitle": "Horizontal & vertical lines",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x0b40a1025c0253de",
+                "translatedTitle": "Forms of two-variable linear equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x447bd406a50c9cbf",
+                "translatedTitle": "Get ready for analytic geometry: Quiz 4",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x2c6ccca94b38e0a5",
+                "translatedTitle": "Get ready for analytic geometry: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xacdf3c3a243afcf5",
+        "translatedTitle": "Get ready for conic sections",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/conics.png-181306-128c.png",
+        "translatedDescription": "This unit lays the groundwork for understanding conic geometry. By covering basic concepts and definitions, it sets the stage for exploring the properties and applications of various shapes such as circles, ellipses, parabolas, and hyperbolas.",
+        "allOrderedChildren": [
+            {
+                "id": "x2f8abb70506dec17",
+                "translatedTitle": "Factoring quadratics intro",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x68566755b5721923",
+                "translatedTitle": "Factoring quadratics with perfect squares",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x170d6098976177bf",
+                "translatedTitle": "Get ready for conic sections: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x88f8cc171033a6f1",
+                "translatedTitle": "Vertex form",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3a705c3c922ffab9",
+                "translatedTitle": "Completing the square",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x4205dd8214155eb7",
+                "translatedTitle": "Get ready for conic sections: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x34cb8ae98655eeb1",
+                "translatedTitle": "Get ready for conic sections: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x42478f778d2ab6cd",
+        "translatedTitle": "Get ready for circles and solid geometry",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/circles.png-293f1f-128c.png",
+        "translatedDescription": "In this unit, we're circling back to one of the most fundamental shapes in geometry: the circle! We'll talk radius, diameter, circumference, and area, and even take a bite out of \"pie\" to get a full understanding.",
+        "allOrderedChildren": [
+            {
+                "id": "xe69999bbc81d00df",
+                "translatedTitle": "Area and circumference of circles",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x1f8afef34aab86fa",
+                "translatedTitle": "Get ready for circles and solid geometry: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xae6f698b8ec12bea",
+                "translatedTitle": "Slicing geometric shapes",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xedd2904483aa8a0b",
+                "translatedTitle": "Volume and surface area word problems",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x233566edfffb1f67",
+                "translatedTitle": "Get ready for circles and solid geometry: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb4730071fa8b6976",
+                "translatedTitle": "Volume of cylinders, spheres, and cones",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x6d520d578ceb44c7",
+                "translatedTitle": "Get ready for circles and solid geometry: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x94c0e88d30956372",
+                "translatedTitle": "Get ready for circles and solid geometry: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x2219106918ffe56c",
+        "translatedTitle": "Computational thinking with variables",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/computational-thinking-with-variables.png-01091f-128c.png",
+        "translatedDescription": "How does the way computers process information differ from how humans process information? Learn how computers interpret sequence and state as you write, run, and debug your first Python programs. Explore data types, operators, and variables, and learn how to make your programs interactive with user input.",
+        "allOrderedChildren": [
+            {
+                "id": "xf069f09b381ad583",
+                "translatedTitle": "The programming platform",
+                "translatedDescription": "Meet the Python programming environment. "
+            },
+            {
+                "id": "x7c793de911197fbd",
+                "translatedTitle": "Program execution",
+                "translatedDescription": "What happens when you run a program?"
+            },
+            {
+                "id": "x44e12cf8b38455af",
+                "translatedTitle": "Variables",
+                "translatedDescription": "Let's remember this for later."
+            },
+            {
+                "id": "x1fb2832f2b233958",
+                "translatedTitle": "Arithmetic expressions",
+                "translatedDescription": "Computers can do math faster than humans, so why not let them?"
+            },
+            {
+                "id": "xb2fa2d81057af7bc",
+                "translatedTitle": "Templating webpages",
+                "translatedDescription": "The Internet is made of strings."
+            },
+            {
+                "id": "x2e91b3e6b21db1e7",
+                "translatedTitle": "Reference docs",
+                "translatedDescription": "Review the syntax for this unit."
+            }
+        ]
+    },
+    {
+        "id": "x4a84181f9ff93565",
+        "translatedTitle": "Designing algorithms with conditionals",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/designing-algorithms-with-conditionals.png-5870c5-128c.png",
+        "translatedDescription": "Can computers be objective decision makers? Discover selection as you design algorithms that allow the computer to decide which code to run and when. Learn how to evaluate boolean expressions and construct conditionals to add branching logic to your programs.",
+        "allOrderedChildren": [
+            {
+                "id": "xee0b804b1f57b898",
+                "translatedTitle": "Boolean conditions",
+                "translatedDescription": "What if you only want to do some things some of the time?"
+            },
+            {
+                "id": "x0aeac9a502678470",
+                "translatedTitle": "Compound boolean expressions",
+                "translatedDescription": "True or False? George Boole knows!"
+            },
+            {
+                "id": "x544cbbf2ddb9e780",
+                "translatedTitle": "Chained conditionals",
+                "translatedDescription": "You come to a fork in the road: if, elif, else. Which path do you take?"
+            },
+            {
+                "id": "x2c8e76395b9a13a3",
+                "translatedTitle": "Nested conditionals",
+                "translatedDescription": "Can you put a conditional inside a conditional?"
+            },
+            {
+                "id": "x0354e1a8a50897c5",
+                "translatedTitle": "Making recommendations",
+                "translatedDescription": "How do recommendation engines know what to recommend?"
+            },
+            {
+                "id": "x53c258176d40d4de",
+                "translatedTitle": "Reference docs",
+                "translatedDescription": "Review the syntax for this unit."
+            }
+        ]
+    },
+    {
+        "id": "xe789ad88432b5a08",
+        "translatedTitle": "Simulating phenomena with loops",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/simulating-phenomena-with-loops.png-20d27a-128c.png",
+        "translatedDescription": "How can you use computers to predict outcomes that are too big for humans to calculate? Discover repetition with while loops and for loops with range. Learn how to simulate events over time by setting up experiments with randomness and repeating them with loops.",
+        "allOrderedChildren": [
+            {
+                "id": "x561221ab63d50a93",
+                "translatedTitle": "Module imports",
+                "translatedDescription": "Why reinvent the wheel when you can import wheel?"
+            },
+            {
+                "id": "x64f6441d377836cd",
+                "translatedTitle": "While loops",
+                "translatedDescription": "Control flow isn't always linear. Sometimes, it loops!"
+            },
+            {
+                "id": "x3eda5dc9f7b70675",
+                "translatedTitle": "For loops",
+                "translatedDescription": "For when you know the number of times you want to repeat."
+            },
+            {
+                "id": "x2f43c4b092077b9d",
+                "translatedTitle": "Loop control flow",
+                "translatedDescription": "Can you terminate a loop under several conditions?"
+            },
+            {
+                "id": "x9ef70e00be03bc73",
+                "translatedTitle": "Simulating populations",
+                "translatedDescription": "How can you design an experiment to simulate natural selection?"
+            },
+            {
+                "id": "xdaab843ed9c32d14",
+                "translatedTitle": "Reference docs",
+                "translatedDescription": "Review the syntax for this unit."
+            }
+        ]
+    },
+    {
+        "id": "x8f7a487f2ee0f02a",
+        "translatedTitle": "Playing games with functions",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/playing-games-with-functions.png-5ef06d-128c.png",
+        "translatedDescription": "How do teams of programmers continuously write and revise code without breaking things? Learn how to break down programs into smaller, independent functions that can be easily read, reused, and tested. Design and write function definitions with parameters and return values as you develop your own game components.",
+        "allOrderedChildren": [
+            {
+                "id": "xf917cfc0feecfd6e",
+                "translatedTitle": "Function definitions",
+                "translatedDescription": "Can you break down a program into smaller pieces?"
+            },
+            {
+                "id": "xa9573d8312e4a370",
+                "translatedTitle": "Function control flow",
+                "translatedDescription": "What happens when a function calls another function?"
+            },
+            {
+                "id": "x17a29d7946570e6f",
+                "translatedTitle": "Code organization",
+                "translatedDescription": "An organized programmer is a happy programmer."
+            },
+            {
+                "id": "x80e703c38dc214c6",
+                "translatedTitle": "Edge cases",
+                "translatedDescription": "How can you be sure that your function works?"
+            },
+            {
+                "id": "x34e09efbd152aad9",
+                "translatedTitle": "Designing levels",
+                "translatedDescription": "Players have short attention spans. Can you keep them engaged?"
+            },
+            {
+                "id": "x9e146a5272f6679b",
+                "translatedTitle": "Reference docs",
+                "translatedDescription": "Review the syntax for this unit."
+            }
+        ]
+    },
+    {
+        "id": "x5d42c5ecff998fa6",
+        "translatedTitle": "Automating tasks with lists",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/intro-to-python-fundamentals.png-82aa5f-128c.png",
+        "translatedDescription": "How can programs make your life easier? Discover how to store multiple values in a list, so that you can process data quickly and efficiently. Learn how to index into and iterate over Python sequences as you write scripts to automate tedious tasks.",
+        "allOrderedChildren": [
+            {
+                "id": "xfd9844551c26f836",
+                "translatedTitle": "List indices",
+                "translatedDescription": "How does a programmer count to 3? ...0, 1, 2."
+            },
+            {
+                "id": "xf35109405613a437",
+                "translatedTitle": "List iteration",
+                "translatedDescription": "Looping over lists."
+            },
+            {
+                "id": "x9ef5f47d59fb5812",
+                "translatedTitle": "String manipulation",
+                "translatedDescription": "Don't go changing; strings are immutable."
+            },
+            {
+                "id": "x21969f507bd47a35",
+                "translatedTitle": "List mutation",
+                "translatedDescription": "Append at the end, insert in the middle."
+            },
+            {
+                "id": "xb36802713cadc20a",
+                "translatedTitle": "Reference docs",
+                "translatedDescription": "Review the syntax for this unit."
+            }
+        ]
+    },
+    {
+        "id": "x2dde42dec14839ff",
+        "translatedTitle": "Analyzing data with dictionaries",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/intro-to-python-fundamentals.png-82aa5f-128c.png",
+        "translatedDescription": "How can you use programming to make sense of large amounts of data, and apply those insights to guide real world actions? Learn how to use dictionaries to organize your data into key-value pairs for easy lookup. Consider the tradeoffs of different data structures in common data science problems.",
+        "allOrderedChildren": [
+            {
+                "id": "x9026fb34deb8cb82",
+                "translatedTitle": "Dictionaries",
+                "translatedDescription": "The key to dictionaries is keys and values."
+            },
+            {
+                "id": "xa205684d5bb5dca3",
+                "translatedTitle": "Dictionary iteration",
+                "translatedDescription": "Choose your own adventure: by key, by value, or by key-value."
+            },
+            {
+                "id": "xc2a306a29b9f6a91",
+                "translatedTitle": "Nested data structures",
+                "translatedDescription": "Can you put a list inside of a dictionary?"
+            },
+            {
+                "id": "x0d423a891b834d2e",
+                "translatedTitle": "Nested iteration",
+                "translatedDescription": "Looping layer by layer."
+            },
+            {
+                "id": "x351db356f4c6fd68",
+                "translatedTitle": "Reference docs",
+                "translatedDescription": "Review the syntax for this unit."
+            }
+        ]
+    },
+    {
+        "id": "xa423fd6fb0f91262",
+        "translatedTitle": "Video extras",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/intro-to-python-fundamentals.png-82aa5f-128c.png",
+        "translatedDescription": "Supplemental videos used in this course.",
+        "allOrderedChildren": []
+    },
+    {
+        "id": "x3caa103bda1f5908",
+        "translatedTitle": "Cells and organisms",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "This unit will take you on a fascinating journey through the world of cells and organisms. You'll get an up-close look at plant and animal cells, learn about organelles, explore the organization of the human body, and gain a deeper understanding of sensory processing and the brain.",
+        "allOrderedChildren": [
+            {
+                "id": "xb6a10b7a5625143b",
+                "translatedTitle": "Cells and organisms",
+                "translatedDescription": "30 trillion cells in a trench coat walks into a movie theater. \"One ticket please.\""
+            },
+            {
+                "id": "x1c222e99b9ea7df3",
+                "translatedTitle": "Cell parts and functions",
+                "translatedDescription": "Every cell is a like a miniature organism, where every piece has an essential role to play."
+            },
+            {
+                "id": "x8b171a7b8268902b",
+                "translatedTitle": "Cells and organisms: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xf840ef3cf8d432e9",
+                "translatedTitle": "Organization in the human body",
+                "translatedDescription": "The liver bone's connected to the pancreas bone. Wait. Those aren't bones!"
+            },
+            {
+                "id": "xea62432cccbdcb6a",
+                "translatedTitle": "Sensory processing and the brain",
+                "translatedDescription": "How do you feel? No, literally, how do you feel and perceive things?"
+            },
+            {
+                "id": "xecf7cbb34f7e0c9f",
+                "translatedTitle": "Cells and organisms: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xfca212a47c145e7a",
+                "translatedTitle": "Cells and organisms: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x4e26795e7075d5b9",
+        "translatedTitle": "Organism growth and reproduction",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "Let's learn how organisms grow and make more of themselves! Whether it's through sexual or asexual reproduction, there's a lot to learn about what makes for success, and how genes and the environment come into play.",
+        "allOrderedChildren": [
+            {
+                "id": "x8a6ef1aa97919425",
+                "translatedTitle": "Sexual and asexual reproduction",
+                "translatedDescription": "Did you know that a detached starfish arm can grow into a whole new starfish?"
+            },
+            {
+                "id": "x58fdcb9f98b433ad",
+                "translatedTitle": "Animal behavior and offspring success",
+                "translatedDescription": "I've got one word for you: PLUMAGE."
+            },
+            {
+                "id": "x5d81d66fe085749c",
+                "translatedTitle": "Organism growth and reproduction: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x7a8aa7eeaab81d50",
+                "translatedTitle": "Plant reproductive success",
+                "translatedDescription": "Hummingbirds, ants, and bats: what do these animals have in common? They're all pollinators!"
+            },
+            {
+                "id": "xe35866bba5bf3c2e",
+                "translatedTitle": "Organism growth and the environment",
+                "translatedDescription": "Plants and animals are programmed by their genes to grow to a specific size range, but external factors matter, too."
+            },
+            {
+                "id": "xd238fdd3e4f6a4ab",
+                "translatedTitle": "Organism growth and reproduction: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x2689dbc641a888e2",
+                "translatedTitle": "Organism growth and reproduction: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x8e2cddc39cb3b4f8",
+        "translatedTitle": "Matter and energy in organisms",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "Let's explore the secret lives of organisms! This unit will reveal how living things harness matter and energy for survival through incredible processes like photosynthesis and cellular respiration.",
+        "allOrderedChildren": [
+            {
+                "id": "x37544652ca968abf",
+                "translatedTitle": "Photosynthesis in organisms",
+                "translatedDescription": "Take a deep breath. Thank a plant."
+            },
+            {
+                "id": "xa84a59c0f1c8c9eb",
+                "translatedTitle": "Matter and energy in organisms: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb3c8d665972fed63",
+                "translatedTitle": "Food and energy in organisms",
+                "translatedDescription": "How does a piece of pizza get from your mouth to your muscles?"
+            },
+            {
+                "id": "x8f75261144f33890",
+                "translatedTitle": "Matter and energy in organisms: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x6ac2770f66c09de9",
+                "translatedTitle": "Activity: How can measuring cellular respiration help us reach a fitness goal?",
+                "translatedDescription": "Make science come alive in your classroom with this free hands-on activity aligned to middle school NGSS standards."
+            },
+            {
+                "id": "x86bd0d0d928246c7",
+                "translatedTitle": "Matter and energy in organisms: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x4ba61297050153bb",
+        "translatedTitle": "Interactions in ecosystems",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "Explore the wild world of ecosystems! From population growth to resource availability, you'll discover the fascinating ways that living things interact to create vibrant and diverse communities.",
+        "allOrderedChildren": [
+            {
+                "id": "x43a58256d488ff04",
+                "translatedTitle": "Populations, communities, and ecosystems",
+                "translatedDescription": "It takes a village to be a forest."
+            },
+            {
+                "id": "xd68e01f82abd6645",
+                "translatedTitle": "Resources and population growth",
+                "translatedDescription": "Siri: define \"zero-sum game\"."
+            },
+            {
+                "id": "x9a4d1caa4d84f8ce",
+                "translatedTitle": "Interactions in ecosystems: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x6f0a3efff10cad99",
+                "translatedTitle": "Ecological interactions",
+                "translatedDescription": "\"Friendship\" is not the word I'd use to describe the shark-remora relationship, but \"mutualism\" is."
+            },
+            {
+                "id": "x24b9f17047ab6464",
+                "translatedTitle": "Interactions in ecosystems: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xfa07dde7cf1fafb8",
+                "translatedTitle": "Interactions in ecosystems: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xf6ff48616940b98e",
+        "translatedTitle": "Matter and energy in ecosystems",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "This unit explores how matter and energy keep ecosystems humming! Learn about the role of photosynthesis in ecosystems, and explore how food webs keep communities connected and thriving.",
+        "allOrderedChildren": [
+            {
+                "id": "x8ae5b9238ae026a6",
+                "translatedTitle": "Photosynthesis in ecosystems",
+                "translatedDescription": "Did you know that all of the energy in an ecosystem can be traced back to the sun?"
+            },
+            {
+                "id": "x8f9a57511a99fb02",
+                "translatedTitle": "Matter and energy in foodwebs",
+                "translatedDescription": "It's an owl-eat-frog-eat-grasshopper world out there."
+            },
+            {
+                "id": "x9bfe9371abbbc924",
+                "translatedTitle": "Activity: What happens when a food web is disturbed?",
+                "translatedDescription": "Make science come alive in your classroom with this free hands-on activity aligned to middle school NGSS standards."
+            },
+            {
+                "id": "x2bcc691b7189fc09",
+                "translatedTitle": "Matter and energy in ecosystems: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xecc9154f0d6d4f29",
+        "translatedTitle": "Ecosystems and biodiversity",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "Why is biodiversity is so important? In this unit, you'll explore ecosystem dynamics and learn about the benefits humans get from healthy and diverse ecosystems.",
+        "allOrderedChildren": [
+            {
+                "id": "xda0dbc3a983e42e9",
+                "translatedTitle": "Ecosystem dynamics",
+                "translatedDescription": "Imagine eating at the same restaurant every day, and one day the restaurant disappears. Now imagine how pandas feel when the bamboo grove they eat at is gone!"
+            },
+            {
+                "id": "xe422d02760e3f0b9",
+                "translatedTitle": "Biodiversity and ecosystem health",
+                "translatedDescription": "Flies are annoying, but what would happen if they suddenly disappeared?"
+            },
+            {
+                "id": "xb00f2fa56133f958",
+                "translatedTitle": "Ecosystems and biodiversity: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xe723deaceec583a7",
+                "translatedTitle": "Humans and ecosystems",
+                "translatedDescription": "\"Everything depends on our ability to sustainably inhabit this earth and true sustainability will require us all to change our way of thinking on how we take from the earth and how we can give back.\" — Deb Haaland, Secretary of the Interior"
+            },
+            {
+                "id": "xb826e044dd361b2f",
+                "translatedTitle": "Ecosystems and biodiversity: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xaa3160fa29535758",
+                "translatedTitle": "Ecosystems and biodiversity: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xa9a07db3b230eaac",
+        "translatedTitle": "Inheritance and variation",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "How do the instructions in genes create the unique traits that we see in every living thing? Learn about how genes work, how they get passed from parent to offspring, and why most living things are genetically unique.",
+        "allOrderedChildren": [
+            {
+                "id": "xd29847d9680ea6cb",
+                "translatedTitle": "Chromosomes",
+                "translatedDescription": "Have we got some special traits for you in this lesson!"
+            },
+            {
+                "id": "x75baddced357e32c",
+                "translatedTitle": "Inheritance and variation: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xe0b5178bd1804c44",
+                "translatedTitle": "Genes, proteins, and traits",
+                "translatedDescription": "Which gene controls the \"unbelievably charming\" trait? And why do I have so many of 'em?"
+            },
+            {
+                "id": "x08029501a6b4b78a",
+                "translatedTitle": "Mutations",
+                "translatedDescription": "MUTANTS ARE AMONG US. Like cold viruses and corn and stuff."
+            },
+            {
+                "id": "xa2984961c8e24387",
+                "translatedTitle": "Activity: Why do some mutations cause genetic disorders?",
+                "translatedDescription": "Make science come alive in your classroom with this free hands-on activity aligned to middle school NGSS standards."
+            },
+            {
+                "id": "x4e87e5d22729c9e6",
+                "translatedTitle": "Inheritance and variation: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x6fd42c488ab75fea",
+                "translatedTitle": "Reproduction and genetic variation",
+                "translatedDescription": "While you played four square, I studied the Punnett square."
+            },
+            {
+                "id": "xd2b0da309273a96a",
+                "translatedTitle": "Inheritance and variation: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x9bc3575de5d639b7",
+                "translatedTitle": "Inheritance and variation: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xc1e133c95121c83a",
+        "translatedTitle": "Evolution",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "Archaeopteryx, woolly mammoths, and saber-toothed cats, oh my! In this unit on evolution, you'll explore the fossil record, learn how to decipher evolutionary trees, and discover how organisms' physical traits provide evidence for evolution.",
+        "allOrderedChildren": [
+            {
+                "id": "x1992a2e113542563",
+                "translatedTitle": "Evolution and common ancestry",
+                "translatedDescription": "Did you know you are related to all living things on Earth?"
+            },
+            {
+                "id": "xb992021e10b91462",
+                "translatedTitle": "Evolution: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x55bf7768e3810b8d",
+                "translatedTitle": "The fossil record",
+                "translatedDescription": "Yes, chicken, your ancestors were fearsome predators!"
+            },
+            {
+                "id": "x7b5aeefbb6b4649b",
+                "translatedTitle": "Evolution: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x4e2a2f678491e321",
+                "translatedTitle": "Evidence of evolution: anatomy",
+                "translatedDescription": "Why do whale flipper-bones have fingers?"
+            },
+            {
+                "id": "x4a9dba69f4ca7a40",
+                "translatedTitle": "Evidence of evolution: embryology",
+                "translatedDescription": "If you think all babies look the same, wait until you look at embryos."
+            },
+            {
+                "id": "x30fb712e0d8e5e7d",
+                "translatedTitle": "Evolution: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xf3c6155b178fcb88",
+                "translatedTitle": "Evolution: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xfe54e506414ac152",
+        "translatedTitle": "Natural and artificial selection",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "In this unit, you'll learn all about the fascinating processes of natural and artificial selection. Discover the key roles that adaptation and environmental change play in shaping how species evolve over time.",
+        "allOrderedChildren": [
+            {
+                "id": "x24c9d3db99e27a08",
+                "translatedTitle": "Natural selection",
+                "translatedDescription": "Why isn't a zebra's neck as long as a giraffe's?"
+            },
+            {
+                "id": "x1082fffc9c75ba63",
+                "translatedTitle": "Adaptation and environmental change",
+                "translatedDescription": "Okay, imagine some finches."
+            },
+            {
+                "id": "x7efdb0c5357662d2",
+                "translatedTitle": "Natural and artificial selection: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xafa881acbeee9f0e",
+                "translatedTitle": "Artificial selection",
+                "translatedDescription": "Let's talk about goldendoodles."
+            },
+            {
+                "id": "xfb3ab4aaf8b98afb",
+                "translatedTitle": "Natural and artificial selection: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xca2ff687183c19c9",
+        "translatedTitle": "Hands-on biology activities",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/inheritance_and_variance.png-3ac18d-128c.png",
+        "translatedDescription": "Make science come alive in your classroom with these free hands-on activities aligned to middle school NGSS standards.",
+        "allOrderedChildren": [
+            {
+                "id": "xc27717b7278e4dea",
+                "translatedTitle": "Unit 3 activities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5ec167fb240d7ef4",
+                "translatedTitle": "Unit 5 activities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5f3f2375a452e59c",
+                "translatedTitle": "Unit 7 activities",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "xaf94852786520f9c",
+        "translatedTitle": "Explore ancient worlds though art ",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/getty_museum.jpg-d9cdd8-128c.jpeg",
+        "translatedDescription": "Explore ancient art by focusing on specific objects: the Medusa mirror, the bust of an arrogant emperor, a vase and throne decorated with battle stories, a luxurious stag-shaped cup, and more. You’ll gain insights into history and artistry through short lessons and activities. Topics include Roman emperors, Greek myths, Persian craftsmanship, and how stories were told through illustrations and design.",
+        "allOrderedChildren": [
+            {
+                "id": "x843737d4d66eb53f",
+                "translatedTitle": "Medusa in ancient art ",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xdc02586a69b2438b",
+                "translatedTitle": "An ancient portrait bust and propaganda",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3450cb7dc86cd942",
+                "translatedTitle": "An ancient Greek sculpture of a musician",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x37107cf43bd5bd89",
+                "translatedTitle": "Functional art from the ancient world and today",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe9a979e9c1c64eed",
+                "translatedTitle": "Stories in stone",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x1cf48b8cd0b9d7f2",
+                "translatedTitle": "Design & storytelling in an ancient vessel",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x7b91cc1ecbb223b2",
+                "translatedTitle": "Information for teachers",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x058b11490526f83d",
+        "translatedTitle": "The J. Paul Getty Museum",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/getty_museum.jpg-d9cdd8-128c.jpeg",
+        "translatedDescription": "",
+        "allOrderedChildren": [
+            {
+                "id": "x6182c282",
+                "translatedTitle": "For kids",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x4050afb2",
+        "translatedTitle": "Antiquities",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/antiquities.jpg-7dc24f-128c.jpeg",
+        "translatedDescription": "Greek vases with stories to tell, ancient glass and carved marble, Roman silver and exotic gems—explore the artistry and history of precious antiquities.",
+        "allOrderedChildren": [
+            {
+                "id": "x342e55cc",
+                "translatedTitle": "Ancient glassmaking",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x2d149bd0",
+                "translatedTitle": "Ancient Greek vases",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x18c43fce",
+                "translatedTitle": "The Roman silversmith's craft",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xd8ceaefb",
+                "translatedTitle": "Gem carving in antiquity",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x18525c23",
+                "translatedTitle": "Marble from antiquity to modern times",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe5a4a864",
+                "translatedTitle": "Inspiration from the classical past",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x8fa02d03827fa7ee",
+        "translatedTitle": "Types of art",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/getty_museum.jpg-d9cdd8-128c.jpeg",
+        "translatedDescription": "",
+        "allOrderedChildren": [
+            {
+                "id": "xe8a7ce70",
+                "translatedTitle": "Manuscripts",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x33941cf7",
+                "translatedTitle": "Drawings",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x7b930f91",
+                "translatedTitle": "Sculpture",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xed6b2610",
+                "translatedTitle": "Decorative arts",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x89ec6be6",
+                "translatedTitle": "Paintings",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x757e2553",
+        "translatedTitle": "Photographs",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/getty_photographs_films.jpg-962ecf-128c.jpeg",
+        "translatedDescription": "Learn about some of the very first photographic techniques, and discover photographs of the early 1800s to the present. Hear artists discuss their images and processes.",
+        "allOrderedChildren": [
+            {
+                "id": "x8a1d12a5",
+                "translatedTitle": "Introducing photography",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x8e601207",
+                "translatedTitle": "Photographic processes",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xbbfee0b8",
+                "translatedTitle": "Photographers",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "xb91c1e3a",
+        "translatedTitle": "Welcome to the world of biodiversity!",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Take an expedition with us to investigate the amazing diversity of life on this planet. Learn what biodiversity is, why it is important, where it is found, how it comes into existence, how you study it, why it is threatened, and how it can be protected.",
+        "allOrderedChildren": [
+            {
+                "id": "xf5ed010a",
+                "translatedTitle": "Welcome ",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x345d2860",
+        "translatedTitle": "Why is biodiversity important?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Discover why a high diversity of species sustains ecosystems, which in turn provide important services to humans.",
+        "allOrderedChildren": [
+            {
+                "id": "xa6f5240b",
+                "translatedTitle": "Biodiversity and ecosystem function",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x89eab031",
+                "translatedTitle": "Biodiversity and ecosystem services",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "xb1fc9124",
+        "translatedTitle": "Where is biodiversity found?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Explore how life is found almost everywhere on Earth, but is not distributed evenly. And learn why the clumped distributions of species are the result of a wide variety of both natural and human-driven factors.",
+        "allOrderedChildren": [
+            {
+                "id": "x3c612950",
+                "translatedTitle": "Biodiversity Hotspots",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x946cfefe",
+                "translatedTitle": "Biodiversity distribution patterns",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x0066ce37",
+        "translatedTitle": "How is biodiversity studied?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Delve into the history of humanity’s passion to document and display specimens from the natural world and learn how biodiversity expeditions are conducted today.",
+        "allOrderedChildren": [
+            {
+                "id": "x65f30a37",
+                "translatedTitle": "Biodiversity fieldwork",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5b6ca905",
+                "translatedTitle": "Biodiversity analyses and unknowns",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x8e37066c",
+        "translatedTitle": "Why is biodiversity threatened?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Examine the local and global threats to biodiversity that are caused by human activities. Many of the negative impacts start as regional, but easily add up to affect the entire planet.",
+        "allOrderedChildren": [
+            {
+                "id": "x56dff66f",
+                "translatedTitle": "Local threats to biodiversity",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x2fec78ab",
+                "translatedTitle": "Global threats to biodiversity",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x2a64372c",
+        "translatedTitle": "How can biodiversity be protected?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Discover the wealth of options available in the vital race to protect biodiversity.",
+        "allOrderedChildren": [
+            {
+                "id": "xd34209c8",
+                "translatedTitle": "Harnessing science and education for biodiversity conservation",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x32ff7968",
+                "translatedTitle": "Biodiversity champions",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x4dd95405",
+        "translatedTitle": "Where does biodiversity come from?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Earth's amazing diversity of life is the result of billions of years of evolution, of natural selection acting on individual genetic variation.",
+        "allOrderedChildren": [
+            {
+                "id": "x3acc3aa5",
+                "translatedTitle": "The evolutionary causes of biodiversity",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x29342a8f",
+                "translatedTitle": "Biodiversity patterns of speciation and extinction",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x92861948",
+        "translatedTitle": "What are the different levels of biodiversity?",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/cas_biodiversity.jpg-49374a-128c.jpeg",
+        "translatedDescription": "Learn how to recognize the genetic, ecosystem, and evolutionary levels of biodiversity.  Along with species richness, these levels play crucial roles in conservation.",
+        "allOrderedChildren": [
+            {
+                "id": "x45d0780d",
+                "translatedTitle": "Genetic and ecosystem biodiversity",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x27ce5cb1",
+                "translatedTitle": "Biodiversity and the tree of life",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x1a634263",
+                "translatedTitle": "Exploring ecosystems",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x25331bb8",
+        "translatedTitle": "Music basics",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/music_basics.jpg-0ba9b6-128c.jpeg",
+        "translatedDescription": "The basic principles of music are explained in plain language with helpful graphics and live video demonstrations. If you have ever wondered “How does music work?” then you’ll find answers here. Presented by the All-Star Orchestra music director Gerard Schwarz.",
+        "allOrderedChildren": [
+            {
+                "id": "xbd7689b7",
+                "translatedTitle": "Notes and rhythm",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x174502fd",
+                "translatedTitle": "Reading music",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x5fbc4e328d95089f",
+        "translatedTitle": "Band instrument lessons",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/all_star_orchestra.jpg-2ea49d-128c.jpeg",
+        "translatedDescription": "Learn about band instruments from expert musicians with the United States Marine Band.  Lessons include warm-ups, excerpts, and helpful advice.  Established by an Act of Congress in 1798, the United States Marine Band is America’s oldest continuously active professional musical organization. The Marine Band performs at the White House an average of 200 times each year, and also presents annually an indoor concert series, summer concerts on the National Mall, and a national concert tour.",
+        "allOrderedChildren": [
+            {
+                "id": "x8317f7cf6356b401",
+                "translatedTitle": "Woodwinds",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe598ebd0c4702eda",
+                "translatedTitle": "Brass",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xa1ee7d87e8575536",
+                "translatedTitle": "Percussion",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xaa5f3514bccb9bf6",
+                "translatedTitle": "Auditioning",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x7470afac",
+        "translatedTitle": "Masterpieces old and new",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/masterpieces_old_and_new.jpg-8e4111-128c.jpeg",
+        "translatedDescription": "Discover what makes a masterpiece by learning how classical works are composed. Music Director Gerard Schwarz explains the history, context and compositional techniques behind famous orchestral works, from Beethoven to leading composers of the present day.",
+        "allOrderedChildren": [
+            {
+                "id": "x29e80cfa",
+                "translatedTitle": "Ludwig van Beethoven: Symphony No. 5",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x1b2fbbce",
+                "translatedTitle": "Pyotr Ilyich Tchaikovsky:  Symphony No.4",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe12b5517",
+                "translatedTitle": "Robert Schumann: Symphony No. 3 \"Rhenish\"",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x662ddaf0",
+                "translatedTitle": "Johannes Brahms: Academic Festival Overture",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3dd505d7",
+                "translatedTitle": "Antonín Dvořák: Symphony No. 9 \"From the New World\"",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x76e2bb0a",
+                "translatedTitle": "Gustav Mahler: Symphony No. 2 – 1st Movement ",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x40e0b5c6",
+                "translatedTitle": "Igor Stravinsky: Suite from The Firebird",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x18232ab5",
+                "translatedTitle": "Maurice Ravel: Suite No. 2 from Daphnis et Chloe",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xeec8cfba",
+                "translatedTitle": "Dmitri Shostakovich: Symphony No. 5",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x15b229d4",
+                "translatedTitle": "Introduction to Philip Glass' \"Harmonium Mountain\"",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x8fc1318b",
+                "translatedTitle": "Bernard Rands: Adieu",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x6116bc8b",
+                "translatedTitle": "Augusta Read Thomas: Of Paradise and Light",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3760d8ff",
+                "translatedTitle": "Bright Sheng: Black Swan",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3aa4a2df",
+                "translatedTitle": "Richard Danielpour: Piano Concerto No. 4, Movement III",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3113c318",
+                "translatedTitle": "David Stock: Blast!",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x18e21894",
+                "translatedTitle": "Ellen Taaffe Zwilich:  Avanti!",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3e4a73c2",
+                "translatedTitle": "Joseph Schwantner: The Poet's Hour",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "xe6ddfd4a",
+        "translatedTitle": "Instruments of the orchestra",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/instruments_of_the_orchestra.jpg-d3bbb5-128c.jpeg",
+        "translatedDescription": "Learn about the different instruments of the orchestra as they are presented and demonstrated by  principal players from famous symphony orchestras.",
+        "allOrderedChildren": [
+            {
+                "id": "xae43324e",
+                "translatedTitle": "Strings",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xc0303d1a",
+                "translatedTitle": "Woodwinds",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x0b71f79a",
+                "translatedTitle": "Brass",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe799d6b9",
+                "translatedTitle": "Percussion ",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x7d2d01e6",
+        "translatedTitle": "Welcome to NASA Mission Control",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/nasa_welcome.jpg-f65d5c-128c.jpeg",
+        "translatedDescription": "Welcome to NASA Mission control, an introduction to the learning and exploration adventures offered in cooperation between NASA and Khan Academy!",
+        "allOrderedChildren": [
+            {
+                "id": "x448700a0",
+                "translatedTitle": "Welcome",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x0b57fb25",
+        "translatedTitle": "Measuring the Universe",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/universe.jpg-ffc710-128c.jpeg",
+        "translatedDescription": "How have we applied science and mathematics to understand our solar system?",
+        "allOrderedChildren": [
+            {
+                "id": "x2c0281d9",
+                "translatedTitle": "Modeling the solar system",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x45352af5",
+                "translatedTitle": "Measuring the solar system",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x8ed3ba1e",
+                "translatedTitle": "Orbital mechanics",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5eee2885",
+                "translatedTitle": "Spectroscopy",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "xabe6c929",
+        "translatedTitle": "Exploring the Universe",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/searchingforlife.jpg-80bd17-128c.jpeg",
+        "translatedDescription": "Centuries of observations ignited curiosity about other bodies in our solar system. Eventually, we reached out and touched them...what did we find?",
+        "allOrderedChildren": [
+            {
+                "id": "x113eac5f",
+                "translatedTitle": "Mars: Modern exploration",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x6f9ead8b",
+                "translatedTitle": "Mars: Ancient observations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x730b9b48",
+                "translatedTitle": "Curiosity rover: mission briefing",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xc0f3b6e3",
+                "translatedTitle": "Curiosity rover: discoveries",
+                "translatedDescription": ""
+            }
+        ]
+    },
+    {
+        "id": "x2548198f0005ec74",
+        "translatedTitle": "Algebra foundations",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/pre_algebra.png-15f261-128c.png",
+        "translatedDescription": "This unit on algebra foundations will introduce us to the exciting world of solving problems with variables! We'll learn about the history of algebra, what variables are, and how to work with them. From substitution to combining like terms, we'll gain the skills we need to take our math skills to the next level. Just let's watch out for that pesky division by zero!",
+        "allOrderedChildren": [
+            {
+                "id": "x918ab189ee32c94c",
+                "translatedTitle": "Overview and history of algebra",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xba0d107c126429d6",
+                "translatedTitle": "Introduction to variables",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x73638bc4a3565d55",
+                "translatedTitle": "Substitution and evaluating expressions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xfefd3b199827ba9a",
+                "translatedTitle": "Algebra foundations: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x6d402226fb2c31ce",
+                "translatedTitle": "Combining like terms",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xdce999d281f5055d",
+                "translatedTitle": "Introduction to equivalent expressions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5508488adebe1302",
+                "translatedTitle": "Algebra foundations: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xd1fab7488cc125cd",
+                "translatedTitle": "Division by zero",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x84952d3e6b5fc212",
+                "translatedTitle": "Algebra foundations: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x67ef039f85390f69",
+        "translatedTitle": "Solving equations & inequalities",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/one_variable_linear_equations.png-d8b2f7-128c.png",
+        "translatedDescription": "In this unit, we learn how to solve linear equations and inequalities that contain a single variable. For example, we'll solve equations like 2(x+3)=(4x-1)/2+7 and inequalities like 5x-2≥2(x-1).",
+        "allOrderedChildren": [
+            {
+                "id": "x83525bda03845879",
+                "translatedTitle": "Linear equations with variables on both sides",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xcf598e1c424c2c43",
+                "translatedTitle": "Linear equations with parentheses",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x23dfc8cb97f00ea2",
+                "translatedTitle": "Solving equations & inequalities: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x984d40cee9a20d90",
+                "translatedTitle": "Analyzing the number of solutions to linear equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xef4b5a52ed2c9ca1",
+                "translatedTitle": "Linear equations with unknown coefficients",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x53807bc8c7c4d24b",
+                "translatedTitle": "Solving equations & inequalities: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x2f513502caf6efa3",
+                "translatedTitle": "Multi-step inequalities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x0c98485657452504",
+                "translatedTitle": "Compound inequalities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x4f5f65883737978b",
+                "translatedTitle": "Solving equations & inequalities: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xe746cba996a0c531",
+                "translatedTitle": "Solving equations & inequalities: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x3fd5c72337aceff5",
+        "translatedTitle": "Working with units",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/units_in_modeling.png-5291ee-128c.png",
+        "translatedDescription": "In this unit, we start to think about some general modeling concerns before we dive into modeling situations with different kinds of functions and equations throughout the course.",
+        "allOrderedChildren": [
+            {
+                "id": "x4761e8889092832b",
+                "translatedTitle": "Rate conversion",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x25c9f9a1e06716d2",
+                "translatedTitle": "Appropriate units",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x9de3869f990c2785",
+                "translatedTitle": "Word problems with multiple units",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x927d7f39ddcec91f",
+                "translatedTitle": "Working with units: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xec3d8f107467dc53",
+        "translatedTitle": "Linear equations & graphs",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/linear_equations.png-f12036-128c.png",
+        "translatedDescription": "In this unit, we'll dive into the world of linear equations and graphs. We'll learn about slope, intercepts, and the secrets to drawing perfectly straight lines. As we progress, we'll develop the skills to analyze and create all kinds of linear equations with ease!",
+        "allOrderedChildren": [
+            {
+                "id": "x317d611156580156",
+                "translatedTitle": "Two-variable linear equations intro",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3db6c4bb9eb81644",
+                "translatedTitle": "Slope",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xfc169845054c29c7",
+                "translatedTitle": "Linear equations & graphs: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xd78ceb751d4afc59",
+                "translatedTitle": "Horizontal & vertical lines",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x04909da2d89f0878",
+                "translatedTitle": "x-intercepts and y-intercepts",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x27427d841fa1deeb",
+                "translatedTitle": "Linear equations & graphs: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x1f505f134680b4fd",
+                "translatedTitle": "Applying intercepts and slope",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xc8328a5e22e55fda",
+                "translatedTitle": "Linear equations & graphs: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xa447efda4cc923ae",
+                "translatedTitle": "Linear equations & graphs: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x144ad327f5e4f4e9",
+        "translatedTitle": "Forms of linear equations",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/linear_equations.png-f12036-128c.png",
+        "translatedDescription": "Slopes, points, intercepts, equations - all can provide clues about how to graph a line. In this unit, we learn how to write linear equations in different forms to reveal different features of their relationships.",
+        "allOrderedChildren": [
+            {
+                "id": "xca69f6ac1de0f9dd",
+                "translatedTitle": "Intro to slope-intercept form",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x27c090d5bb3a2680",
+                "translatedTitle": "Graphing slope-intercept equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xdb55009ae158afe6",
+                "translatedTitle": "Forms of linear equations: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x8454c30d6123b52e",
+                "translatedTitle": "Writing slope-intercept equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x87095e32615c0c71",
+                "translatedTitle": "Forms of linear equations: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x88cca70498b00f1d",
+                "translatedTitle": "Point-slope form",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5de60ff503bc480b",
+                "translatedTitle": "Standard form",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xb850d86413bad665",
+                "translatedTitle": "Summary: Forms of two-variable linear equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xb53ece8b9bb4d603",
+                "translatedTitle": "Forms of linear equations: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb43bdbf4f3fdde85",
+                "translatedTitle": "Forms of linear equations: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xe8cf4168a6802ec1",
+        "translatedTitle": "Systems of equations",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/linear_equations.png-f12036-128c.png",
+        "translatedDescription": "How can we use two equations to find out the value of something? In this unit, we learn how to write systems of equations, solve those systems, and interpret what those solutions mean.",
+        "allOrderedChildren": [
+            {
+                "id": "xff37339ef50a5d5d",
+                "translatedTitle": "Introduction to systems of equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xba82132006fa3e32",
+                "translatedTitle": "Systems of equations: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb8666ec8b4c6da65",
+                "translatedTitle": "Solving systems of equations with substitution",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xd2c3e9f3ece164dd",
+                "translatedTitle": "Equivalent systems of equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xc5128996a4accda9",
+                "translatedTitle": "Solving systems of equations with elimination",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x2744646d01e6062e",
+                "translatedTitle": "Systems of equations: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xf0b39ec4710648e8",
+                "translatedTitle": "Number of solutions to systems of equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x6c4fadfa02059f98",
+                "translatedTitle": "Systems of equations word problems",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x80efe8c78e50bd52",
+                "translatedTitle": "Systems of equations: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x9027d99ae1dd780f",
+                "translatedTitle": "Systems of equations: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xfad652d5b368c7b6",
+        "translatedTitle": "Inequalities (systems & graphs)",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/linear_inequalities.png-d694f7-128c.png",
+        "translatedDescription": "In this unit, we study inequalities like x+2y>5 and graph them. This helps us see their solutions. We also explore systems of inequalities (multiple inequalities at the same time) and use them to describe real-world situations.",
+        "allOrderedChildren": [
+            {
+                "id": "xedbd235e78605ae1",
+                "translatedTitle": "Checking solutions of two-variable inequalities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe3b186fac9793ef6",
+                "translatedTitle": "Inequalities (systems & graphs): Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x6f68a3ba8db4b0f1",
+                "translatedTitle": "Graphing two-variable inequalities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x94c261c4bad30922",
+                "translatedTitle": "Inequalities (systems & graphs): Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x96839d120610562a",
+                "translatedTitle": "Modeling with linear inequalities",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xae8f393def97d420",
+                "translatedTitle": "Inequalities (systems & graphs): Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x497f315da1d8941f",
+                "translatedTitle": "Inequalities (systems & graphs): Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x4c7431cdee59fade",
+        "translatedTitle": "Functions",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/functions.png-7f9fe9-128c.png",
+        "translatedDescription": "In this unit, we learn about functions, which are mathematical entities that assign unique outputs to given inputs. We'll evaluate, graph, analyze, and create various types of functions.",
+        "allOrderedChildren": [
+            {
+                "id": "xb047791c7eaf51be",
+                "translatedTitle": "Evaluating functions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x319ced2ad4cf5809",
+                "translatedTitle": "Inputs and outputs of a function",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xad8357e976873f05",
+                "translatedTitle": "Functions: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x5ad1af64c0d22ef0",
+                "translatedTitle": "Functions and equations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x259546814a8036c4",
+                "translatedTitle": "Interpreting function notation",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe6192d029354874b",
+                "translatedTitle": "Introduction to the domain and range of a function",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xab6a885988986d7b",
+                "translatedTitle": "Functions: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x65928934fa2aa562",
+                "translatedTitle": "Determining the domain of a function",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x262e6d5c1ec5e61c",
+                "translatedTitle": "Recognizing functions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x4f9c458bfbb449f8",
+                "translatedTitle": "Functions: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xd49269a200b61fde",
+                "translatedTitle": "Maximum and minimum points",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x877117ccdcdda6df",
+                "translatedTitle": "Intervals where a function is positive, negative, increasing, or decreasing",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xd037a0f79ef7dcfd",
+                "translatedTitle": "Interpreting features of graphs",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x73da1c91d91bb70e",
+                "translatedTitle": "Functions: Quiz 4",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x0e1e5c9b019f3bca",
+                "translatedTitle": "Average rate of change",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x44de4df9cd8a78b5",
+                "translatedTitle": "Average rate of change word problems",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x2511608bd86c87ee",
+                "translatedTitle": "Intro to inverse functions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xbf9d382233fdfa93",
+                "translatedTitle": "Functions: Quiz 5",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x2d68f409f2afabd6",
+                "translatedTitle": "Functions: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x58dd42e67c7c2248",
+        "translatedTitle": "Scatterplots",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/regression.png-1116c0-128c.png",
+        "translatedDescription": "In this unit, you'll get to learn all about scatterplots! We'll learn how to create them, and how to interpret all those funky looking dots. Plus, we'll learn how to use trend lines to make some pretty good guesses about data we don't even have. Who knew statistics could be so much fun?",
+        "allOrderedChildren": [
+            {
+                "id": "xe9fdd3e3035f9ffa",
+                "translatedTitle": "Creating and interpreting scatterplots",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xeb418742f7bfee83",
+                "translatedTitle": "Scatterplots: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xd551c35bbce780d0",
+                "translatedTitle": "Estimating with trend lines",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xd2e1bf196b97c8a1",
+                "translatedTitle": "Scatterplots: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x4ce5fae6e07c3e4e",
+                "translatedTitle": "Scatterplots: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x8c16611a0633fc1d",
+        "translatedTitle": "Data distributions",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/data_modeling.png-55cc08-128c.png",
+        "translatedDescription": "In this unit, we'll dive into understanding data distributions. We'll learn about different ways to display data, how to summarize the center of a distribution, and how to compare distributions to one another. We'll explore charts, box and whisker plots, and more. With plenty of interesting concepts to learn, we're sure to have a good time!",
+        "allOrderedChildren": [
+            {
+                "id": "x30b50551939ad1fa",
+                "translatedTitle": "Displays of distributions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x21fbfba0a6ba033e",
+                "translatedTitle": "Data distributions: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xe65f377e8b96a32a",
+                "translatedTitle": "Summarizing center of distributions (central tendency)",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xb4f0e5bfcb0925cd",
+                "translatedTitle": "Data distributions: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x93c58f34cdf8f89f",
+                "translatedTitle": "Box and whisker plots",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xb4e959791a4a5d92",
+                "translatedTitle": "Comparing distributions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x63390153b214e817",
+                "translatedTitle": "Data distributions: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xd99576995f426e1e",
+                "translatedTitle": "Data distributions: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xd066cc4c726e4f14",
+        "translatedTitle": "Two-way tables",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/matrices.png-6a6c96-128c.png",
+        "translatedDescription": "This unit is all about two-way tables – those handy charts that can help us make sense of a bunch of data all at once! We'll learn how to read them, create them, and even take things up a notch by analyzing relative frequency tables. By the end of the unit, we'll be a two-way table whiz!",
+        "allOrderedChildren": [
+            {
+                "id": "x0f0357f05e2ffebb",
+                "translatedTitle": "Two-way frequency tables",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x8729003cac928b2e",
+                "translatedTitle": "Two-way relative frequency tables",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x39c4785f06cd12ce",
+                "translatedTitle": "Two-way tables: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x32cb60b2cd0c09d9",
+        "translatedTitle": "Sequences",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/sequences.png-cb8eda-128c.png",
+        "translatedDescription": "In this unit, we learn about the various ways in which we can define sequences. We'll construct arithmetic and geometric sequences to describe patterns and use those sequences to solve problems.",
+        "allOrderedChildren": [
+            {
+                "id": "xf96c3d04a063df72",
+                "translatedTitle": "Introduction to arithmetic sequences",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x0efee3ea5925d03f",
+                "translatedTitle": "Constructing arithmetic sequences",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x555f4e3abff77573",
+                "translatedTitle": "Sequences: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xd58c579088da2cef",
+                "translatedTitle": "Introduction to geometric sequences",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x53ae5436a7312dbd",
+                "translatedTitle": "Constructing geometric sequences",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xf3d4e0e66f680c6f",
+                "translatedTitle": "Sequences: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xbb2850e4be091f82",
+                "translatedTitle": "Modeling with sequences",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xaa20c7841ddcac8e",
+                "translatedTitle": "General sequences",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x8027613c388ca38c",
+                "translatedTitle": "Sequences: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x7ae7319b68e0c965",
+                "translatedTitle": "Sequences: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x8ceb9fb5f9c40aaf",
+        "translatedTitle": "Exponents & radicals",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/exponents_radicals.png-67f870-128c.png",
+        "translatedDescription": "In this unit, we review exponent rules and learn about higher-order roots like the cube root (or 3rd root). We'll learn how to calculate these roots and simplify algebraic expressions with radicals.",
+        "allOrderedChildren": [
+            {
+                "id": "x78fa32cf2947117d",
+                "translatedTitle": "Exponent properties review",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xa9a92e80f0da9ab1",
+                "translatedTitle": "Exponents & radicals: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x9e3170a3174d9952",
+                "translatedTitle": "Radicals",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x348e6c8d5fe349ad",
+                "translatedTitle": "Exponents & radicals: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x8073a0b3c052fead",
+                "translatedTitle": "Simplifying square roots",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x526aa9ed98e2e608",
+                "translatedTitle": "Exponents & radicals: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb000ec15c6b6167e",
+                "translatedTitle": "Exponents & radicals: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x2228c6b346ff02df",
+        "translatedTitle": "Exponential growth & decay",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/exponential_growth_and_decay_alg_2.png-d6f540-128c.png",
+        "translatedDescription": "In this unit, we'll tackle exponential growth and decay. We'll explore the key differences between exponential and linear growth, and get plenty of practice with exponential expressions. As we delve into graphs and tables, we'll start to see patterns and understand how to model these changes ourselves. By the end, we'll all be experts in exponential growth! ",
+        "allOrderedChildren": [
+            {
+                "id": "x9708fb1b47d0725c",
+                "translatedTitle": "Exponential vs. linear growth",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x9d637cf7e60d38e9",
+                "translatedTitle": "Exponential expressions",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x58ddc9679af935f4",
+                "translatedTitle": "Exponential growth & decay: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x57a08358c4c95668",
+                "translatedTitle": "Graphs of exponential growth",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x73a4c910c8a11221",
+                "translatedTitle": "Exponential vs. linear growth over time",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xedb0fee30ae24703",
+                "translatedTitle": "Exponential growth & decay",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x0d4c2f747f373052",
+                "translatedTitle": "Exponential growth & decay: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xf06d0968de05d7ca",
+                "translatedTitle": "Exponential functions from tables & graphs",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x3c7dc565a8faef57",
+                "translatedTitle": "Exponential vs. linear models",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xdd734c9affda40db",
+                "translatedTitle": "Exponential growth & decay: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x5739183d19dda217",
+                "translatedTitle": "Exponential growth & decay: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x191e0058bae6ef53",
+        "translatedTitle": "Performing transformations",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/transformations.png-90ed83-128c.png",
+        "translatedDescription": "In this topic, we will learn about the most useful math concept for creating video game graphics: geometric transformations, specifically translations, rotations, reflections, and dilations. We will learn how to perform the transformations, and how to map one figure into another using these transformations.",
+        "allOrderedChildren": [
+            {
+                "id": "xcba34d05181275db",
+                "translatedTitle": "Introduction to rigid transformations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x78c004b6409fa044",
+                "translatedTitle": "Translations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xfad065ee7086bd88",
+                "translatedTitle": "Performing transformations: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xae2f85a6eacdce2b",
+                "translatedTitle": "Rotations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x140079ade01930b4",
+                "translatedTitle": "Performing transformations: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x3bb2261c491cf952",
+                "translatedTitle": "Reflections",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x7cf48bd2d713e361",
+                "translatedTitle": "Performing transformations: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x8f9972fa2b4c105b",
+                "translatedTitle": "Dilations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x4112222b0b495956",
+                "translatedTitle": "Performing transformations: Quiz 4",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x7ab72e1773c4cfa5",
+                "translatedTitle": "Performing transformations: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x37ee2864fc25da5f",
+        "translatedTitle": "Transformation properties and proofs",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/linear_equations.png-f12036-128c.png",
+        "translatedDescription": "In this unit, we'll dive into the wild world of shape transformations! We'll explore all the different ways we can stretch, shrink, or move shapes around, while still keeping some key properties the same. We'll also learn how to use these transformations as tools in mathematical proofs. Let's get ready to transform our math skills!",
+        "allOrderedChildren": [
+            {
+                "id": "x46961b298c32d19b",
+                "translatedTitle": "Rigid transformations overview",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x6f36033ef69591d8",
+                "translatedTitle": "Dilation preserved properties",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xf55cf1a34a519e98",
+                "translatedTitle": "Transformation properties and proofs: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x92e7c263a7a1e919",
+                "translatedTitle": "Properties & definitions of transformations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x9d1bdbd7e8b97ac7",
+                "translatedTitle": "Symmetry",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5fd6517fbd583a7c",
+                "translatedTitle": "Proofs with transformations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5d0f88a7b79f2939",
+                "translatedTitle": "Transformation properties and proofs: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x7552c088980bb976",
+                "translatedTitle": "Transformation properties and proofs: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "xecb244817b2540b4",
+        "translatedTitle": "Congruence",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/regression.png-1116c0-128c.png",
+        "translatedDescription": "Learn what it means for two figures to be congruent, and how to determine whether two figures are congruent or not. Use this immensely important concept to prove various geometric theorems about triangles and parallelograms.",
+        "allOrderedChildren": [
+            {
+                "id": "xe970900ea02436fa",
+                "translatedTitle": "Transformations & congruence",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x4953701cbc60fed6",
+                "translatedTitle": "Triangle congruence from transformations",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x5d57f2867169dbf7",
+                "translatedTitle": "Congruent triangles",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe5e605eda4e40b72",
+                "translatedTitle": "Congruence: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x29cf53ed06fd808a",
+                "translatedTitle": "Theorems concerning triangle properties",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xce49258ceba30f43",
+                "translatedTitle": "Working with triangles",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x4db6fec2c8b48461",
+                "translatedTitle": "Congruence: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x6878da7e4326d62d",
+                "translatedTitle": "Theorems concerning quadrilateral properties",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x8eae6d40fb004478",
+                "translatedTitle": "Proofs of general theorems that use triangle congruence",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xfe61599783e33ff1",
+                "translatedTitle": "Constructing lines & angles",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xc21ac76fc3d4e420",
+                "translatedTitle": "Congruence: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xc8cd8de476a8929a",
+                "translatedTitle": "Congruence: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    },
+    {
+        "id": "x6bf124c0f261dae3",
+        "translatedTitle": "Analytic geometry",
+        "iconPath": "https://cdn.kastatic.org/genfiles/topic-icons/icons/graphing_analyzing_linear.png-222c93-128c.png",
+        "translatedDescription": "In analytic geometry, also known as coordinate geometry, we think about geometric objects on the coordinate plane. For example, we can see that opposite sides of a parallelogram are parallel by writing a linear equation for each side and seeing that the slopes are the same.",
+        "allOrderedChildren": [
+            {
+                "id": "xa61e494c95fd3c65",
+                "translatedTitle": "Distance and midpoints",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x025733ae9c82bd95",
+                "translatedTitle": "Dividing line segments",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x738a2ea68f01906f",
+                "translatedTitle": "Analytic geometry: Quiz 1",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "xb841fafde54ec592",
+                "translatedTitle": "Problem solving with distance on the coordinate plane",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xe36cf0d522c44d32",
+                "translatedTitle": "Analytic geometry: Quiz 2",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x2176c596cf7d6c9a",
+                "translatedTitle": "Parallel & perpendicular lines on the coordinate plane",
+                "translatedDescription": ""
+            },
+            {
+                "id": "xedcdc1b6e46df3e0",
+                "translatedTitle": "Equations of parallel & perpendicular lines",
+                "translatedDescription": ""
+            },
+            {
+                "id": "x755e60ae37b158ac",
+                "translatedTitle": "Analytic geometry: Quiz 3",
+                "translatedDescription": "Review the following recommended lessons to help you learn: {list of lessons covered by quiz}"
+            },
+            {
+                "id": "x5fce9e2b15aa2723",
+                "translatedTitle": "Analytic geometry: Unit test",
+                "translatedDescription": "Test your understanding of {unit name}."
+            }
+        ]
+    }
+]

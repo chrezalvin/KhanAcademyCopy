@@ -9,10 +9,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@expo/metro-runtime": "~3.2.3",
     "@expo/vector-icons": "^14.0.2",
     "@react-native-async-storage/async-storage": "^2.0.0",
     "@react-native/metro-config": "^0.75.2",
+    "@react-navigation/drawer": "^6.7.2",
     "@react-navigation/native": "^6.1.18",
     "@reduxjs/toolkit": "^2.2.7",
     "expo": "~51.0.28",
@@ -22,6 +24,8 @@
     "react-dom": "18.2.0",
     "react-native": "0.74.5",
     "react-native-paper": "^5.12.5",
+    "react-native-reanimated": "^3.15.4",
+    "react-native-splash-screen": "^3.3.0",
     "react-native-svg": "^15.6.0",
     "react-native-vector-icons": "^10.1.0",
     "react-native-web": "~0.19.10",

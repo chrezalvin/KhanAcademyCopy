@@ -12,6 +12,9 @@ export const sets = StyleSheet.create({
         shadowRadius: 3.84,
         elevation: 5,
     },
+    shadowNone: {
+      shadowRadius: 0,
+    }
 });
 
 export default sets;

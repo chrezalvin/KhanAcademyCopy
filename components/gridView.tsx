@@ -1,10 +1,11 @@
-import { View, Text } from "react-native";
+import { View, Text, StyleProp, ViewStyle } from "react-native";
 import styles from "../styles";
 
 interface GridViewProps{
     rowCount: number;
     gap: number;
     childrens: JSX.Element[];
+    gridStyle?: StyleProp<ViewStyle>;
 }
 
 export function GridView(props: GridViewProps){
@@ -12,9 +13,10 @@ export function GridView(props: GridViewProps){
         .map((_, index) => (
             <View style={[{
                     flex: 1,
-                    gap: props.gap
+                    gap: props.gap,
                 },
-                styles.flexHorizontal
+                styles.flexHorizontal,
+                props.gridStyle,
             ]}>
                 {
                     props
