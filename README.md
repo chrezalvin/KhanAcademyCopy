@@ -12,7 +12,7 @@ this project is made using **react-native typescript**
 
 ### References
 
-<h3 style="text-align: center;">Copied App Preview<sup>*</sup> </h3>
+<h3 style="text-align: center;">Real App Preview<sup>*</sup> </h3>
 
 |<img style="width: 100%; height: 100%;" src="./screenshots/references/bookmarks_dark.jpg" alt="" srcset="">|<img style="width: 100%; height: 100%;" src="./screenshots/references/bookmarks_light.jpg" alt="" srcset="">|<img style="width: 100%; height: 100%;" src="./screenshots/references/explore_no_search_dark.jpg" alt="" srcset="">|<img style="width: 100%; height: 100%;" src="./screenshots/references/explore_no_search_light.jpg" alt="" srcset="">|
 |:---:|:---:|:---:|:---:|
